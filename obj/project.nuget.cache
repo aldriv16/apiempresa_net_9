@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "J9QrqAQr3GI=",
+  "dgSpecHash": "vA+wvOazm24=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Aldriv\\Downloads\\net7_api_rest-main\\net7_api_rest-main\\ApiEmpresa.csproj",
+  "projectFilePath": "C:\\Users\\Aldriv\\Desktop\\Tareas 6to Semestre\\ApiEmpresa\\ApiEmpresa.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Aldriv\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Aldriv\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

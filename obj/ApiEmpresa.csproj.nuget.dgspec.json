@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aldriv\\Downloads\\net7_api_rest-main\\net7_api_rest-main\\ApiEmpresa.csproj": {}
+    "C:\\Users\\Aldriv\\Desktop\\Tareas 6to Semestre\\ApiEmpresa\\ApiEmpresa.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aldriv\\Downloads\\net7_api_rest-main\\net7_api_rest-main\\ApiEmpresa.csproj": {
+    "C:\\Users\\Aldriv\\Desktop\\Tareas 6to Semestre\\ApiEmpresa\\ApiEmpresa.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aldriv\\Downloads\\net7_api_rest-main\\net7_api_rest-main\\ApiEmpresa.csproj",
+        "projectUniqueName": "C:\\Users\\Aldriv\\Desktop\\Tareas 6to Semestre\\ApiEmpresa\\ApiEmpresa.csproj",
         "projectName": "ApiEmpresa",
-        "projectPath": "C:\\Users\\Aldriv\\Downloads\\net7_api_rest-main\\net7_api_rest-main\\ApiEmpresa.csproj",
+        "projectPath": "C:\\Users\\Aldriv\\Desktop\\Tareas 6to Semestre\\ApiEmpresa\\ApiEmpresa.csproj",
         "packagesPath": "C:\\Users\\Aldriv\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aldriv\\Downloads\\net7_api_rest-main\\net7_api_rest-main\\obj\\",
+        "outputPath": "C:\\Users\\Aldriv\\Desktop\\Tareas 6to Semestre\\ApiEmpresa\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
